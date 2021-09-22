@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add the new Post List package to Jetpack project
+
+### Changed
+- Updated the default columns displayed on the post and page list screens
