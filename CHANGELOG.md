@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Only add the thumbnail column for post types that support it
 - Updated package dependencies.
 
 ## 0.1.0 - 2021-09-22
