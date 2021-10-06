@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Only add the thumbnail column for post types that support it
+- Updated package dependencies
 - Updated package dependencies.
 
 ## 0.1.0 - 2021-09-22
