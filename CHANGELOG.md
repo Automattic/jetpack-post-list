@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Crop thumbnail images using the correct aspect ratio
+- Ensured that the thumbnail and Share action are included in the quick edit response.
 
 ## [0.2.3] - 2021-11-02
 ### Changed
