@@ -16,7 +16,6 @@
 			"src/"
 		]
 	},
-	"repositories": [],
 	"scripts": {
 		"phpunit": [
 			"./vendor/phpunit/phpunit/phpunit --colors=always"
