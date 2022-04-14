@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- PHPCS: Fix `WordPress.Security.ValidatedSanitizedInput`
+
 ## [0.3.0] - 2022-02-01
 ### Changed
 - Build: remove unneeded files from production build.
