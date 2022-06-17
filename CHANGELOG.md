@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - PHPCS: Fix `WordPress.Security.ValidatedSanitizedInput`
+- Renaming master to trunk.
 
 ## [0.3.0] - 2022-02-01
 ### Changed
