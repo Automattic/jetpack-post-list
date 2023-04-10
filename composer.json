@@ -4,12 +4,15 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^1.18.0"
+		"automattic/jetpack-assets": "^1.18.1-alpha"
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
 		"automattic/jetpack-changelogger": "^3.3.2",
 		"yoast/phpunit-polyfills": "1.0.4"
+	},
+	"suggest": {
+		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
 	},
 	"autoload": {
 		"classmap": [
