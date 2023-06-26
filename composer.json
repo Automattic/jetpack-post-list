@@ -8,7 +8,7 @@
 	},
 	"require-dev": {
 		"automattic/wordbless": "@dev",
-		"automattic/jetpack-changelogger": "^3.3.4",
+		"automattic/jetpack-changelogger": "^3.3.5-alpha",
 		"yoast/phpunit-polyfills": "1.0.4"
 	},
 	"suggest": {
